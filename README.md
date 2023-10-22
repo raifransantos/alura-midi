@@ -1,11 +1,10 @@
 # alura-midi
-
-## O que aprendi
-* Acessar seletores através do DOM;
-* Manipular seletores;
-* Usar condicionais IF e ELSE;
-* Usar a estrutura de repetição FOR.
+O Alura Midi é um instrumento musical de interface digital.
+## Tecnologias
+* HTML
+* CSS
+* JavaScript
 
 ## Resultado
 
-![Print de tela](https://github.com/raifransantos/alura-midi/blob/main/Captura%20de%20tela%202023-10-21%20164117.png)
+![Print de tela](https://github.com/raifransantos/alura-midi/tree/main/github)
