@@ -1,4 +1,4 @@
-# alura-midi
+# Alura Midi
 O Alura Midi é um instrumento musical de interface digital.
 ## Tecnologias
 * HTML
