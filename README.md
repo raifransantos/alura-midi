@@ -7,4 +7,4 @@ O Alura Midi é um instrumento musical de interface digital.
 
 ## Resultado
 
-![Print de tela](https://github.com/raifransantos/alura-midi/tree/main/github)
+![Print de tela](https://github.com/raifransantos/alura-midi/blob/main/github/preview.png?raw=true)
